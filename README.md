@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there, I'm Charles 👋
 
-<!--
-**charlesshook/charlesshook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, and Student!
+- 🔭 I’m currently working at Bobcat!
+- 🌱 I’m currently learning Golang.
+- 👯 I’m looking to collaborate on Open Source projects
+- 🥅 2020 Goals: Write cleaner code
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="charlesshook.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Charles Shook | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+<img align="left" alt="Charles Shook's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesshook&show_icons=true&hide_border=true" />
+
+[website]: https://charlesshook.com
+[linkedin]: https://linkedin.com/in/charlesshook
