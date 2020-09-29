@@ -16,5 +16,8 @@
 
 <img align="left" alt="Charles Shook's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesshook&show_icons=true&hide_border=true&count_private=true" />
 
+<br />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [website]: https://charlesshook.com
 [linkedin]: https://linkedin.com/in/charlesshook
