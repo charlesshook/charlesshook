@@ -41,7 +41,7 @@
         <img  alt="HTML Icon" height="75px" style="padding-right:10px;" src="./assets/icons/html.svg"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank" rel="noreferrer">
-        <img  alt="CSS Icon" height="75px" style="padding-right:10px;" src="./assets/icons/CSS.svg"/>
+        <img  alt="CSS Icon" height="75px" style="padding-right:10px;" src="./assets/icons/css.svg"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noreferrer">
         <img  alt="Javascript Icon" height="75px" style="padding-right:10px;" src="./assets/icons/javascript.svg"/>
