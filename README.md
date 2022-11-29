@@ -49,27 +49,27 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img  alt="VS Code Icon" height="75px" style="padding-right:10px;" src="./assets/icons/vscode.svg"/>
     </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
         <img  alt="C++ Icon" height="75px" style="padding-right:10px;" src="./assets/icons/c++.svg"/>
     </a>
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img  alt="AWS Icon" height="75px" style="padding-right:10px;" src="./assets/icons/aws.svg"/>
     </a>
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
         <img  alt="Azure Icon" height="75px" style="padding-right:10px;" src="./assets/icons/azure.svg"/>
     </a>
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
         <img  alt="Linux Icon" height="75px" style="padding-right:10px;" src="./assets/icons/linux.svg"/>
     </a>
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
         <img  alt="Ubuntu Icon" height="75px" style="padding-right:10px;" src="./assets/icons/ubuntu.svg"/>
     </a>
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img  alt="Docker Icon" height="75px" style="padding-right:10px;" src="./assets/icons/docker.svg"/>
     </a>
 </div>
