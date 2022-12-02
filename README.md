@@ -1,5 +1,3 @@
-<img alt="Mountains" src="./assets/images/banner.jpeg"/>
-
 # Hey there, I'm Charles 👋
 - 📻 I’m currently working towards my ham radio license!
 - 🥅 2023 Goals: Contribute to open source projects.
