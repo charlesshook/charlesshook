@@ -18,9 +18,9 @@
 ### Check out my stats:
 
 <div align="center">
-    <img alt="Charles Shook languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesshook&layout=compact&theme=prussian&hide_border=true&custom_title=My Top Languages" /> 
+    <img alt="Charles Shook languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesshook&layout=compact&theme=prussian&hide_border=true" /> 
     <br>
-    <img alt="Charles Shook's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesshook&show_icons=true&hide_border=true&count_private=true&theme=prussian&custom_title=My Github Stats" />
+    <img alt="Charles Shook's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesshook&show_icons=true&hide_border=true&count_private=true&theme=prussian" />
 </div>
 
 ### Some of my favorite tools:
